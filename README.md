@@ -1,15 +1,5 @@
 # NFL-Big-Data-Bowl-2027
 
-<style>
-  .dataset-readme { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; line-height: 1.55; color: #1f2328; max-width: 1100px; }
-  .dataset-readme h2 { border-bottom: 1px solid #d0d7de; padding-bottom: .3em; }
-  .dataset-readme h3 { margin-top: 2em; }
-  .dataset-readme table { border-collapse: collapse; width: 100%; margin: 1em 0 1.5em; font-size: .92em; }
-  .dataset-readme th, .dataset-readme td { border: 1px solid #d0d7de; padding: 6px 10px; text-align: left; vertical-align: top; }
-  .dataset-readme thead th { background: #f6f8fa; }
-  .dataset-readme tbody tr:nth-child(even) { background: #fbfcfd; }
-  .dataset-readme code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .9em; background: #f6f8fa; padding: .1em .35em; border-radius: 4px; word-break: break-word; }
-</style>
 <div class="dataset-readme">
   <h1>Dataset Description</h1>
   <h2>Overview of Datasets</h2>
